@@ -10,7 +10,7 @@ while True:
         n2=input("Enter the second number:")
         print("The sum of two numbers:"+ str(int(n1)+int(n2)))
     elif operation=="2":
-        n1 = input("Enter the first number:")
+        n1 = input("Enter the first number:") 
         n2 = input("Enter the second number:")
         print("The difference of two numbers:" + str(int(n1) - int(n2)))
     elif operation=="3":
